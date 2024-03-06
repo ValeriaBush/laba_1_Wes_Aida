@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Git\laba_1_jk_finally_maybe\Res2\ConsoleApplication1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Git\laba_1_jk_finally_maybe\Res2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{712543B3-AC27-3D5E-96FE-6BC5C0F26B6E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
